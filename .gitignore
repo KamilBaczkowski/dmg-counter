@@ -1,1 +1,4 @@
+# Project files
 /target
+# Editor files
+.vscode
